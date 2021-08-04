@@ -13,7 +13,7 @@
 
 🌱  Interesses: Java, HTML, CSS e JS
 
-🎮 Jogador nas horas vagas
+🎮 Jogo algumas coisas nas horas vagas 
     
   
 <p align="center">
