@@ -12,7 +12,7 @@
 
 🌱  Interesses: Java, HTML, CSS e JS
 
-🎮 Jogo algumas coisas nas horas vagas 
+🎮 
     
 
    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
